@@ -1,6 +1,6 @@
 # MERN CRUD Application
 
-A simple **MERN Stack CRUD application** that allows users to **create, edit, and update user records**.
+A simple **MERN Stack CRUD application** that allows users to **create, edit, and delete user records**.
 This project was built to practice full-stack development using MongoDB, Express, React, and Node.js.
 
 ---
@@ -10,6 +10,7 @@ This project was built to practice full-stack development using MongoDB, Express
 * Add new users
 * Edit existing user details
 * Update user information
+* Delete users
 * Full-stack MERN architecture
 
 ---
@@ -76,7 +77,7 @@ npm start
 | POST   | /api/users     | Add new user  |
 | GET    | /api/users     | Get all users |
 | PUT    | /api/users/:id | Update user   |
-
+| DELETE | /api/users/:id | Delete user   |
 ---
 
 ## 🎯 Purpose of This Project
@@ -101,7 +102,6 @@ GitHub: https://github.com/haneenmuhammedkc
 
 ## ⭐ Future Improvements
 
-* Delete user functionality
 * Form validation
 * UI enhancements
 * Authentication system
