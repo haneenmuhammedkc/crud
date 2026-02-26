@@ -10,7 +10,6 @@ This project was built to practice full-stack development using MongoDB, Express
 * Add new users
 * Edit existing user details
 * Update user information
-* REST API integration
 * Full-stack MERN architecture
 
 ---
@@ -29,17 +28,6 @@ This project was built to practice full-stack development using MongoDB, Express
 * Express.js
 * MongoDB
 * Mongoose
-
----
-
-## 📁 Project Structure
-
-```
-crud/
- ├── client/        # React frontend
- ├── server/        # Node + Express backend
- ├── README.md
-```
 
 ---
 
